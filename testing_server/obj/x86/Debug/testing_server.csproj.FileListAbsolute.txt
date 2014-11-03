@@ -1,0 +1,5 @@
+c:\users\monojit\documents\visual studio 2010\Projects\testing_server\testing_server\bin\Debug\testing_server.exe
+c:\users\monojit\documents\visual studio 2010\Projects\testing_server\testing_server\bin\Debug\testing_server.pdb
+c:\users\monojit\documents\visual studio 2010\Projects\testing_server\testing_server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\monojit\documents\visual studio 2010\Projects\testing_server\testing_server\obj\x86\Debug\testing_server.exe
+c:\users\monojit\documents\visual studio 2010\Projects\testing_server\testing_server\obj\x86\Debug\testing_server.pdb
